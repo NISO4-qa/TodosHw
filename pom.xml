@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>AfishaHw</artifactId>
+    <artifactId>ToDoLists</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
